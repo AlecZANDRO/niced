@@ -1,1 +1,1 @@
-file-1.txt hasnt any content
+some changes in file-1.txt

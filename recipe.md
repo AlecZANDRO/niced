@@ -1,3 +1,1 @@
-borsch+vodka
-
-sour cream to taste
+kulebyaky
